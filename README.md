@@ -11,3 +11,5 @@
   - [토스플레이스 데이터봇 '판다(PANDA)'](https://toss.tech/article/da-assistant-panda)
 - 260529 : toss_TDS : 디자인 시스템 Flat API와 Compound API
   - [디자인 시스템 다시 생각해보기](https://toss.tech/article/rethinking-design-system)
+- 260529 : Toss Front SDK + Facade패턴
+  - [쓰기 쉬운 Toss Front SDK](https://toss.tech/article/toss-front-sdk)

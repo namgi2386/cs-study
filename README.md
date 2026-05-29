@@ -7,3 +7,7 @@
 - 260524 : 캐시란(warm start시 캐싱) + chuchuTree 캐싱 경험
 - 260526 : 모노레포 - 전허게 초기세팅 모노레포 사용여부 검증
 - 260528 : 검색/검색최적화/검색알고리즘 개념정리
+- 260529 : toss_PANDA : Text-to-SQL RAG + Agentic Loop
+  - [토스플레이스 데이터봇 '판다(PANDA)'](https://toss.tech/article/da-assistant-panda)
+- 260529 : toss_TDS : 디자인 시스템 Flat API와 Compound API
+  - [디자인 시스템 다시 생각해보기](https://toss.tech/article/rethinking-design-system)
